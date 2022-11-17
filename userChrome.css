@@ -446,18 +446,17 @@ if you change --tab-min-height it doesnt work for fullcreen
 
 /* BOOKMARK MENU AUTOHIDE */
 /* *Uncomment for autohide */
-#PersonalToolbar {
-	--uc-bm-height: 24px; /* Might need to adjust if the toolbar has other buttons */
-	--uc-bm-padding: 6px; /* Vertical padding to be applied to bookmarks */
+/* #PersonalToolbar {
+	--uc-bm-height: 24px; 
+	--uc-bm-padding: 6px; 
 	padding: 1px 6px !important;
 	position: absolute;
 
 	background-image: url(image/noise-512x512.png) !important;
-	/* * Bookmarks */
 	background-color: #292c3c !important;
 	-webkit-backdrop-filter: blur(32px) !important;
 	backdrop-filter: blur(32px) !important;
-}
+} */
 
 :root[uidensity="touch"] #PersonalToolbar {
 	--uc-bm-padding: 6px;
