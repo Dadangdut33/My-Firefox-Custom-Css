@@ -1,4 +1,8 @@
+# About
+
 What i use for my firefox custom css, customized for fixes and my own preferences.
+
+I use firefox developer edition on Windows 11. I have not tested this on other platforms.
 
 ## Originally taken from
 
