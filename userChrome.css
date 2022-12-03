@@ -1,16 +1,5 @@
-@import "config.css";
-@import "variables.css";
-@import "icons/icons.css";
-@import "urlbar/urlbar.css";
-@import "navbar/navbar.css";
-@import "window-controls/wc-fix-win.css";
-@import "interface/interface.css";
-@import "content/inner-rounded.css";
-@import "userChrome-tabline.css";
-/* @import "userChrome-static.css"; */
-/* @import "userChrome-overlay.css"; */
+/* Firefox-mod-blur */
+/* @import "Firefox-mod-blur/userChrome.css"; */
 
-/* @DONT USE */
-/* make icons wierd for some reason */
-/* @import "popup/popup.css"; */
-/* @import "userChrome-overlay.css"; */
+/* FlyingFox */
+@import "FlyingFox/userChrome.css";

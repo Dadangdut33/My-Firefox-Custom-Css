@@ -1,0 +1,19 @@
+/* FlyingFox */
+@import "config.css";
+@import "variables.css";
+@import "icons/icons.css";
+@import "urlbar/urlbar.css";
+@import "navbar/navbar.css";
+@import "window-controls/wc-fix-win.css";
+@import "interface/interface.css";
+@import "content/inner-rounded.css";
+@import "userChrome-tabline.css";
+
+/* ------------------------------ */
+/* Other options */
+/* @import "userChrome-static.css"; */
+/* @import "userChrome-overlay.css"; */
+
+/* This make icons weird dunno why */
+/* @import "popup/popup.css"; */
+/* @import "userChrome-overlay.css"; */
